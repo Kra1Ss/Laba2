@@ -5,6 +5,12 @@ div {font-size: 14pt;
 	font-family: Georgia;
 }
 
+#booba {
+
+background: "images/post7.png";
+background-repeat: no-repeat;	
+}
+
 #d3 {
 	display: inline-block;
 	position: relative;
